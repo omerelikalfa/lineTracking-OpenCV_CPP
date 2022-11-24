@@ -12,15 +12,15 @@ Bunun için:
   Arama kısmına sistem değişkenleri yazın ve uygulamayı açın.
   
   
-    Sistem değişkenleri yazdığınızda sonuç alamıyorsanız:
-    Bu bilgisayar / Özellikler
-    ![](https://i.imgur.com/Ynr9X2o.png)
+  Sistem değişkenleri yazdığınızda sonuç alamıyorsanız:
+  Bu bilgisayar / Özellikler
+  ![](https://i.imgur.com/Ynr9X2o.png)
     
-    Gelişmiş Sistem Ayarları
-    ![](https://i.imgur.com/xTfub8t.png)
+  Gelişmiş Sistem Ayarları
+  ![](https://i.imgur.com/xTfub8t.png)
     
-    Ortam Değişkenleri
-    ![](https://i.imgur.com/9O8SUg0.png)
+  Ortam Değişkenleri
+  ![](https://i.imgur.com/9O8SUg0.png)
     
     
  Alt kısımda Path değişkenine tıklayıp düzenle diyoruz
