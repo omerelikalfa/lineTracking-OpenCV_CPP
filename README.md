@@ -1,3 +1,4 @@
+# C++
 # Using Visual Studio Community 2022
 # DM for questions, suggestions or issues
 
@@ -24,14 +25,30 @@ Bunun için:
   ![](https://i.imgur.com/9O8SUg0.png)
     
  
- Sistem değişkenlerine girdiğinizde:
+ Sistem değişkenlerine girdiğimizde:
  
  Alt kısımda Path değişkenine tıklayıp düzenle diyoruz
  
  ![](https://i.imgur.com/kxOCf7r.png)
     
- Ardından "Yeni" butonuna tıklayıp kurulum_yolu\opencv\build\x64\vc15\bin (Örneğin benim için E:\opencv\build\x64\vc15\bin)
+ Ardından "Yeni" butonuna tıklayıp "kurulum_yolu\opencv\build\x64\vc15\bin" yolunu ekliyoruz (Örneğin benim için C:\opencv\build\x64\vc15\bin)
   
+
+Artık Visual Studio'ya OpenCV kütüphanelerini ekleme zamanı:
+
+Visual Studio'da yeni bir "C++ Konsol Uygulaması" projesi oluşturuyoruz.
+
+Projemizi oluşturduktan sonra çözüm gezgini kısmında projemize sağ tıklayıp seçenekler diyoruz.
+![](https://mertmekatronik.com/uploads/images/2021/04/image_750x_606aca01af032.jpg)
+
+Daha sonra gelen ekranda VC++ Dizinlerine tıklıyoruz, bu kısımda ekleme kodu dizinlerine "kurulum_yolu\opencv\build\include" dosya yolunu, kitaplık dizinlerine de "kurulum_yolu\OpenCV\opencv\build\x64\vc15\lib" dosya olunu ekliyoruz.
+![](https://mertmekatronik.com/uploads/images/2021/04/image_750x_6068d2ca3cf93.jpg)
+
+Son olarak bağlayıcı kısmında girişe geliyoruz ve ek bağımlılıklara "opencv_world460d.lib" ekliyoruz.
+![](https://i.imgur.com/mTgEYe0.png)
+
+OpenCV kurulumunu tamamladınız!
+Artık bir kaç satır yazmaya başlayabilirsiniz.
 
 
 # EN - A line tracking software for basic autonomous vehicles.
