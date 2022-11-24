@@ -23,7 +23,9 @@ Bunun için:
   
   ![](https://i.imgur.com/9O8SUg0.png)
     
-    
+ 
+ Sistem değişkenlerine girdiğinizde:
+ 
  Alt kısımda Path değişkenine tıklayıp düzenle diyoruz
  
  ![](https://i.imgur.com/kxOCf7r.png)
