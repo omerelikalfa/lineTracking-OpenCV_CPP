@@ -9,11 +9,11 @@ Daha sonrasında extract tuşuna basın ve indirme işleminin bitmesini bekleyin
 
 Sırada kurduğunuz OpenCV pakedini PATH'e eklemeniz gerekiyor.
 Bunun için:
-  > Arama kısmına sistem değişkenleri yazın ve uygulamayı açın.
+  Arama kısmına sistem değişkenleri yazın ve uygulamayı açın.
     Sistem değişkenleri yazdığınızda sonuç alamıyorsanız:
     > Bu bilgisayar / Özellikler
     ![](https://i.imgur.com/Ynr9X2o.png)
-  > 
+  
 
 
 # EN - A line tracking software for basic autonomous vehicles.
