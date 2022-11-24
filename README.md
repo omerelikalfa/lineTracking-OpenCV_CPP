@@ -13,7 +13,7 @@ Bunun için:
   
   
     Sistem değişkenleri yazdığınızda sonuç alamıyorsanız:
-    > Bu bilgisayar / Özellikler
+    Bu bilgisayar / Özellikler
     ![](https://i.imgur.com/Ynr9X2o.png)
     
     Gelişmiş Sistem Ayarları
