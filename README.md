@@ -20,10 +20,12 @@ Bunun için:
   ![](https://i.imgur.com/xTfub8t.png)
     
   Ortam Değişkenleri
+  
   ![](https://i.imgur.com/9O8SUg0.png)
     
     
  Alt kısımda Path değişkenine tıklayıp düzenle diyoruz
+ 
  ![](https://i.imgur.com/kxOCf7r.png)
     
  Ardından "Yeni" butonuna tıklayıp kurulum_yolu\opencv\build\x64\vc15\bin (Örneğin benim için E:\opencv\build\x64\vc15\bin)
