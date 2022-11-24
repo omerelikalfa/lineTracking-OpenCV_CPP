@@ -1,6 +1,6 @@
-# C++
-# Using Visual Studio Community 2022
-# DM for questions, suggestions or issues
+C++
+Using Visual Studio Community 2022
+DM for questions, suggestions or issues
 
 # TR - Basit otonom arabalar için geliştirilmiş bir şerit takip yazılımı.
 
