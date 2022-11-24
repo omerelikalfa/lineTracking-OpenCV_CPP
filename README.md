@@ -53,3 +53,4 @@ Artık bir kaç satır yazmaya başlayabilirsiniz.
 
 # EN - A line tracking software for basic autonomous vehicles.
 
+Translate coming soon
